@@ -19,6 +19,7 @@ Powdery (Powdery Mildew)
 
 Rust
 
+
 Total Images per Class:
 Approximately 510 images per class, resulting in around 1,530 images in total.
 
