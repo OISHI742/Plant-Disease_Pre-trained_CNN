@@ -9,6 +9,8 @@ The dataset used in this project is publicly available on Kaggle:
 Dataset: Plant Disease Dataset
 
 Local Path Used: /kaggle/input/plant-disease/Plant_Disease_Dataset
+
+
 Classes:
 
 Healthy
